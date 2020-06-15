@@ -4,7 +4,7 @@ namespace App\Events;
 
 use App\Models\Artist;
 use Illuminate\Queue\SerializesModels;
-
+//hello
 class ArtistInformationFetched
 {
     use SerializesModels;
